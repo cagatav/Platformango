@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ground
+  - Bounce
+  - Enemy
+  - Ice
+  - reward
+  - Reward1
+  - Reward2
+  - Reward3
+  - Coin1
+  - Coin2
+  - Up
+  - Door2
+  - Checkpoint
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - BackGround
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 1591639391
+    locked: 0
+  - name: Ground
+    uniqueID: 3894180373
+    locked: 0
+  - name: Foreground
+    uniqueID: 1086419939
+    locked: 0
+  - name: Player
+    uniqueID: 3953532879
+    locked: 0
