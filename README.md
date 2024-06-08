@@ -59,6 +59,14 @@ This platformer game developed for the CENG454 final exam project showcases vari
 
 You can download the project files, including screenshots and gameplay videos, from the [Google Drive link](your-google-drive-link).
 
+## Images
+- [Platformer Game Start](https://cagatav.com/platformer1.png)
+- [Platformer Game Power-Ups](https://cagatav.com/platformer2.png)
+- [Platformer Game Level 1 End](https://cagatav.com/platformer3.png)
+- [Platformer Game Level 2](https://cagatav.com/platformer4.png)
+- [Platformer Game Level 2 Challanges](https://cagatav.com/platformer5.png)
+- [Platformer Game End](https://cagatav.com/platformer6.png)
+
 ---
 
 Thank you for checking out the Platformer Game Project! Enjoy playing and feel free to reach out with any questions or feedback.
